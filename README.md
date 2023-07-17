@@ -1,4 +1,4 @@
-
+[![Build Status](https://fredyweb.visualstudio.com/Devops/_apis/build/status%2Ffredyweb.pipelines-java?branchName=main)](https://fredyweb.visualstudio.com/Devops/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
